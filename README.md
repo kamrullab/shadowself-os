@@ -78,7 +78,7 @@ This project represents the intersection of technology and introspection, design
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/shadowself-os.git
+git clone https://github.com/kamrullab/shadowself-os.git
 
 # Navigate to project directory
 cd shadowself-os
