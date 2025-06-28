@@ -10,7 +10,7 @@
 
 **A cyberpunk-inspired desktop operating system interface built for self-discovery and authentic expression**
 
-[🚀 Live Demo](https://shadowself-os.netlify.app) • [📖 Documentation](#documentation) • [🛠️ Installation](#installation) • [🎯 Features](#features)
+[🚀 Live Demo](https://kamrul.pages.dev/shadowself-os/) • [📖 Documentation](#documentation) • [🛠️ Installation](#installation) • [🎯 Features](#features)
 
 </div>
 
